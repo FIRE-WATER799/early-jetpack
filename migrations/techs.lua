@@ -1,1 +1,1 @@
-game.player.force.resettechnologies()
+game.force.resettechnologies()
