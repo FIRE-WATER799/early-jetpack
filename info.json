@@ -1,0 +1,11 @@
+{
+  "name": "EarlyJetpack",
+  "version": "0.0.17",
+  "title": "EarlyJetpack",
+  "author": "fire/FIRE153",
+  "dependencies": [
+		"jetpack"
+  ],
+  "description": "Personal tweaks",
+  "factorio_version": "1.1"
+}
